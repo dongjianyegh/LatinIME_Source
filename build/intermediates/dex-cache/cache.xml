@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/dongjianye/Sogou/LatinIME/LatinIME-Android-Studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/dongjianye/Sogou/LatinIME/LatinIME-Android-Studio/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_e64ab6f6d2078142fe333f80f049ffd6857848f6.jar" />
+    </item>
+    <item
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="/Users/dongjianye/Sogou/LatinIME/LatinIME-Android-Studio/app/build/intermediates/pre-dexed/debug/jsr305-1.3.9_772a7925b08675cdf6b1bcb4dee6adbe99753902.jar" />
+    </item>
+    <item
+        jar="/Users/dongjianye/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/dongjianye/Sogou/LatinIME/LatinIME-Android-Studio/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_fca1ee434bc06be9f18247cc48c2231a1ae3008b.jar" />
+    </item>
+    <item
+        jar="/Users/dongjianye/Sogou/LatinIME/LatinIME-Android-Studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/dongjianye/Sogou/LatinIME/LatinIME-Android-Studio/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_54835bc8475ad557577f762e5d1afedc672a1074.jar" />
+    </item>
+
+</items>
